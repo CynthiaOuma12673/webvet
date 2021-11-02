@@ -28,3 +28,13 @@ body{
         display: inline;
       
     }
+    .nav {
+        display: flex;
+   justify-content: space-between;
+    }
+    .nav li{
+        background-color: darkgreen;
+        border-radius: 10px;
+        overflow: hidden;
+        width: auto;
+    }
