@@ -38,3 +38,12 @@ body{
         overflow: hidden;
         width: auto;
     }
+    .dog_pic{
+        background-image: url(images/pet1.jpg);
+        overflow: hidden; 
+        width: 100%;
+        background-size: cover;
+        
+
+    }
+    
