@@ -10,3 +10,7 @@ body{
   justify-content:space-between;
 
 }
+.header #logo img{
+    height: 60px; 
+    width: 80px;
+    }
