@@ -52,3 +52,11 @@ body{
    bottom: 0px; 
 
     }
+    .dog_pic .mostpopular {
+        float: right;
+    background-color: darkgreen;
+    padding: 100px;
+    padding-top: 200px;
+    height: auto;
+    background: center;
+    } 
