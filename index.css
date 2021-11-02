@@ -46,4 +46,9 @@ body{
         
 
     }
-    
+    .dog_pic .sub_nav{
+     display: flex;
+    justify-content: space-evenly; */
+   bottom: 0px; 
+
+    }
