@@ -60,3 +60,7 @@ body{
     height: auto;
     background: center;
     } 
+    .sub_bar {
+        margin-top: auto;
+        height: 100%;
+    }
